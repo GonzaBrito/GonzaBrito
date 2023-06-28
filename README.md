@@ -1,3 +1,4 @@
+### Hola
 ¡Hola! Soy Gonzalo Daniel Brito, un apasionado del mundo de la tecnología y un desarrollador Full Stack con experiencia en diversas tecnologías.
 
 Me he formado en la reconocida institución "Soy Henry" como Desarrollador Full Stack, obteniendo un sólido conocimiento en el desarrollo tanto en el front-end como en el back-end pudiendo conseguir habilidades en HTML, CSS, Redux, React y Tailwind.
